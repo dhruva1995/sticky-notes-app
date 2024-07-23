@@ -1,3 +1,5 @@
+Note this is a sample project created following a simple tutorial on Frecodecamp youtube page https://www.youtube.com/watch?v=yBThHM2pBbE
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
